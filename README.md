@@ -1,6 +1,6 @@
 # Data-Science-Project-3
 
-I recently completed a project about weather prediction project using machine learning algorithms. This project aimed to forecast maximum temperatures based on historical weather data from Oakland International Airport, CA, USA. The data spanned from January 1, 1960, to February 5, 2022.
+I recently completed a project about weather prediction project using machine learning algorithms. This project aimed to forecast maximum temperatures based on historical weather data from Oakland International Airport, CA, USA.
 
 🔍 Key Highlights:
 * Machine Learning Model: Utilizing Ridge Regression for weather prediction, considering factors such as PRCP, TMAX, and TMIN.
